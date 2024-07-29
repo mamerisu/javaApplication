@@ -1,4 +1,4 @@
 interface Measurable {
-    int getArea();
+    double getArea();
     int getPerimeter();
 }
